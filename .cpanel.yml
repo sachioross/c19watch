@@ -1,0 +1,7 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/cwatchco/public_html/
+    - yarn install
+    - yarn build
+    - /bin/cp -R dist $DEPLOYPATH
