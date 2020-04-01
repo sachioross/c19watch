@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/scss/app.scss"],"names":[],"mappings":"AAAA,cACI,sBAAuB,CACvB,YAAa,CACb,UAAW","file":"src.f51ad680.css","sourceRoot":"..","sourcesContent":[".main-content {\n    border: 1px dashed grey;\n    display: flex;\n    width: 100%;\n}"]}
