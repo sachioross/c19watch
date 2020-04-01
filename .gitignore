@@ -1,0 +1,10 @@
+# Node modules folder
+node_modules/
+
+# OS files
+.DS_Store
+
+# Parcel Build Folders
+.cache/
+build/
+dist/
